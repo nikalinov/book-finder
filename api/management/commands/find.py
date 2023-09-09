@@ -5,6 +5,7 @@ from urllib.parse import urlencode
 
 
 URL = 'https://glasgow.summon.serialssolutions.com/?s.'
+FILTERS = ['Book / eBook']
 
 
 class Command(BaseCommand):
@@ -16,14 +17,28 @@ class Command(BaseCommand):
         parser.add_argument('number', nargs='?', type=int, default=10)
 
     def handle(self, *args, **kwargs):
-        # self.stdout.write(self.style.SUCCESS(f'title: {kwargs["title"]}, number: {kwargs["number"]}'))
         browser_options = FirefoxOptions()
-        browser_options.headless = True
+        browser_options.headless = False
         driver = Firefox(options=browser_options)
-
+        driver.implicitly_wait(5)
         query = {'q': kwargs['title']}
         driver.get(URL + urlencode(query))
 
+        for option in FILTERS:
+            driver.find_element(By.LINK_TEXT, option).click()
+
+        """while True:
+            numbers_elems = driver.find_elements(By.CLASS_NAME, 'resultNumber ng-binding bg-scope')
+            numbers = [elem.text for elem in numbers_elems]
+            print(numbers_elems)
+            print()
+            if numbers[-1] >= kwargs['number']:
+                break
+            driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')"""
+
+        numbers_elems = driver.find_elements(By.CSS_SELECTOR, '.resultNumber.ng-binding.bg-scope')
+        numbers = [elem.text for elem in numbers_elems]
+
         # results = driver.find_element(By.ID, 'results').find_element(By.CLASS_NAME, 'inner')
 
-        driver.quit()
+        #driver.quit()
