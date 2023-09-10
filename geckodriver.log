@@ -517,3 +517,523 @@ JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initi
 JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
 1694296824875	Marionette	INFO	Stopped listening on port 39413
+1694345769908	geckodriver	INFO	Listening on 127.0.0.1:60263
+1694345770456	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledRpp5T"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694345770880	Marionette	INFO	Marionette enabled
+1694345770883	Marionette	INFO	Listening on port 42417
+WebDriver BiDi listening on ws://127.0.0.1:53375
+Read port: 42417
+1694345771054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledRpp5T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53375/devtools/browser/87353f9e-ff3c-4021-9d7d-e75d6dccf5c5
+1694345775739	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694345783738	Marionette	INFO	Stopped listening on port 42417
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694346979110	geckodriver	INFO	Listening on 127.0.0.1:58391
+1694346979641	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3g9B5P"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694346980030	Marionette	INFO	Marionette enabled
+1694346980032	Marionette	INFO	Listening on port 44121
+Read port: 44121
+WebDriver BiDi listening on ws://127.0.0.1:51575
+1694346980138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3g9B5P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51575/devtools/browser/0c8e8888-6725-40d6-ba8f-d1bb341c781f
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694347060405	geckodriver	INFO	Listening on 127.0.0.1:38289
+1694347060443	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefk3LXh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694347060831	Marionette	INFO	Marionette enabled
+1694347060833	Marionette	INFO	Listening on port 39611
+Read port: 39611
+WebDriver BiDi listening on ws://127.0.0.1:38165
+1694347060954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefk3LXh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38165/devtools/browser/04d0a13c-1dfe-4d7b-b49b-19cbc94f6b4f
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694347075684	geckodriver	INFO	Listening on 127.0.0.1:50721
+1694347075719	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ7Vva1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694347076139	Marionette	INFO	Marionette enabled
+1694347076141	Marionette	INFO	Listening on port 36413
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+Read port: 36413
+WebDriver BiDi listening on ws://127.0.0.1:48137
+1694347076261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ7Vva1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48137/devtools/browser/f1b30de4-ea6f-4703-ac5e-b400666d72da
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694347081494	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694347103930	Marionette	INFO	Stopped listening on port 44121
+1694347105273	Marionette	INFO	Stopped listening on port 39611
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694347239068	Marionette	INFO	Stopped listening on port 36413
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694347292963	geckodriver	INFO	Listening on 127.0.0.1:33703
+1694347293515	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileotYlhm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694347293962	Marionette	INFO	Marionette enabled
+1694347293965	Marionette	INFO	Listening on port 35549
+Read port: 35549
+WebDriver BiDi listening on ws://127.0.0.1:51271
+1694347294046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileotYlhm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51271/devtools/browser/164db354-3f6e-4f1c-a781-1e2af16004cd
+1694347298189	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694347383935	Marionette	INFO	Stopped listening on port 35549
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694348149053	geckodriver	INFO	Listening on 127.0.0.1:49611
+1694348149603	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUW1xD2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694348149990	Marionette	INFO	Marionette enabled
+1694348149993	Marionette	INFO	Listening on port 35243
+Read port: 35243
+WebDriver BiDi listening on ws://127.0.0.1:44303
+1694348150113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUW1xD2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44303/devtools/browser/e204a5f9-579e-49b3-bad6-3f1af6346c7c
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694348163042	Marionette	INFO	Stopped listening on port 35243
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694348225558	geckodriver	INFO	Listening on 127.0.0.1:40453
+1694348225576	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLQrQG3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694348225954	Marionette	INFO	Marionette enabled
+1694348225957	Marionette	INFO	Listening on port 42145
+WebDriver BiDi listening on ws://127.0.0.1:42991
+Read port: 42145
+1694348226119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLQrQG3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42991/devtools/browser/1f68133e-018a-429e-ac41-7a657672ea1b
+1694348230417	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694348349617	geckodriver	INFO	Listening on 127.0.0.1:55367
+1694348350163	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAOGiPK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694348350550	Marionette	INFO	Marionette enabled
+1694348350553	Marionette	INFO	Listening on port 35023
+Read port: 35023
+WebDriver BiDi listening on ws://127.0.0.1:53985
+1694348350658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAOGiPK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53985/devtools/browser/3034830b-5c63-4aee-89b9-e60e3d1aa5fb
+1694348355055	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694348358066	Marionette	INFO	Stopped listening on port 35023
+1694348361433	geckodriver	INFO	Listening on 127.0.0.1:36765
+1694348361475	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevpq0fJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694348361858	Marionette	INFO	Marionette enabled
+1694348361861	Marionette	INFO	Listening on port 34831
+Read port: 34831
+WebDriver BiDi listening on ws://127.0.0.1:60761
+1694348361941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevpq0fJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60761/devtools/browser/d2f7243e-316c-4282-9a2d-d8219b5a0866
+1694348366620	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694348377824	Marionette	INFO	Stopped listening on port 34831
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694348413790	Marionette	INFO	Stopped listening on port 42145
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694350422074	geckodriver	INFO	Listening on 127.0.0.1:34285
+1694350422115	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGIiVk4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694350422492	Marionette	INFO	Marionette enabled
+1694350422494	Marionette	INFO	Listening on port 42077
+Read port: 42077
+WebDriver BiDi listening on ws://127.0.0.1:46531
+1694350422613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGIiVk4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46531/devtools/browser/0379b1ca-98e9-46e1-ac2e-0c9452d27b0d
+1694350430174	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694350459218	Marionette	INFO	Stopped listening on port 42077
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694350480541	geckodriver	INFO	Listening on 127.0.0.1:58703
+1694350480583	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePSz7tI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694350480962	Marionette	INFO	Marionette enabled
+1694350480965	Marionette	INFO	Listening on port 42815
+Read port: 42815
+WebDriver BiDi listening on ws://127.0.0.1:42377
+1694350481069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePSz7tI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42377/devtools/browser/82ed6fc1-1948-4ac3-a272-8676abce4c7e
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694351323497	geckodriver	INFO	Listening on 127.0.0.1:38653
+1694351323535	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMhKcMQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694351323913	Marionette	INFO	Marionette enabled
+1694351323915	Marionette	INFO	Listening on port 38873
+Read port: 38873
+WebDriver BiDi listening on ws://127.0.0.1:42073
+1694351324009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMhKcMQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42073/devtools/browser/c3c95549-b7ae-4ac4-9628-e81c1dacf07c
+1694351327966	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694351351691	Marionette	INFO	Stopped listening on port 38873
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694351357657	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1694351512473	geckodriver	INFO	Listening on 127.0.0.1:60195
+1694351512516	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevikK7U"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694351512897	Marionette	INFO	Marionette enabled
+1694351512899	Marionette	INFO	Listening on port 45553
+Read port: 45553
+WebDriver BiDi listening on ws://127.0.0.1:38827
+1694351512993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevikK7U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38827/devtools/browser/bde2b830-9968-4333-88e2-31938a58b2ac
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694351545951	Marionette	INFO	Stopped listening on port 45553
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
