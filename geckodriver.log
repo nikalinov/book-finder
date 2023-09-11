@@ -1037,3 +1037,423 @@ JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initi
 JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
 1694351545951	Marionette	INFO	Stopped listening on port 45553
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694430302444	Marionette	INFO	Stopped listening on port 42815
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694431528636	geckodriver	INFO	Listening on 127.0.0.1:33473
+1694431529169	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile86IzoB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694431529664	Marionette	INFO	Marionette enabled
+1694431529667	Marionette	INFO	Listening on port 45979
+Read port: 45979
+WebDriver BiDi listening on ws://127.0.0.1:50957
+1694431529751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile86IzoB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50957/devtools/browser/7b0b6ba0-e57e-4ba7-a07e-cf1d437268f7
+1694431537459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694435708655	geckodriver	INFO	Listening on 127.0.0.1:50811
+1694435709202	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledK1hPh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694435709706	Marionette	INFO	Marionette enabled
+1694435709708	Marionette	INFO	Listening on port 35581
+WebDriver BiDi listening on ws://127.0.0.1:54683
+Read port: 35581
+1694435709886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledK1hPh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54683/devtools/browser/f8ec275b-420a-424e-a54d-3af8ccbe5680
+1694435715797	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694435805915	geckodriver	INFO	Listening on 127.0.0.1:44943
+1694435805953	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "38147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileokYq2K"
+*** You are running in headless mode.
+1694435806142	Marionette	INFO	Marionette enabled
+1694435806144	Marionette	INFO	Listening on port 41647
+Read port: 41647
+WebDriver BiDi listening on ws://127.0.0.1:38147
+1694435806202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileokYq2K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38147/devtools/browser/a4e7c8cc-cf6b-4941-afec-bd826b248f1a
+1694435810267	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694435820117	Marionette	INFO	Stopped listening on port 41647
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ezproxy.lib.gla.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://milngavie.cent.gla.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://milngavie.cent.gla.ac.uk."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694451067959	Marionette	INFO	Stopped listening on port 45979
+1694451068643	Marionette	INFO	Stopped listening on port 35581
+1694451094478	geckodriver	INFO	Listening on 127.0.0.1:34815
+1694451095022	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1ZRgkW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451095533	Marionette	INFO	Marionette enabled
+1694451095536	Marionette	INFO	Listening on port 44611
+WebDriver BiDi listening on ws://127.0.0.1:47121
+Read port: 44611
+1694451095719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1ZRgkW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47121/devtools/browser/5d10625c-9182-4f31-aeba-d5b77536bebe
+1694451102628	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694451104475	geckodriver	INFO	Listening on 127.0.0.1:49347
+1694451104513	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX8BKth"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451104898	Marionette	INFO	Marionette enabled
+1694451104901	Marionette	INFO	Listening on port 37189
+Read port: 37189
+WebDriver BiDi listening on ws://127.0.0.1:49175
+1694451105023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX8BKth/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49175/devtools/browser/0eff6b9a-f7dc-4e69-a2a3-e0817193c706
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694451835535	Marionette	INFO	Stopped listening on port 37189
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694451839587	geckodriver	INFO	Listening on 127.0.0.1:53119
+1694451839625	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVy7Rfj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451840004	Marionette	INFO	Marionette enabled
+1694451840006	Marionette	INFO	Listening on port 44535
+Read port: 44535
+WebDriver BiDi listening on ws://127.0.0.1:49825
+1694451840121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVy7Rfj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49825/devtools/browser/295c2af7-0f12-4fbb-9128-8bc72d15673e
+1694451847652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694451860307	geckodriver	INFO	Listening on 127.0.0.1:45563
+1694451860325	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU562QT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694451860710	Marionette	INFO	Marionette enabled
+1694451860713	Marionette	INFO	Listening on port 35317
+WebDriver BiDi listening on ws://127.0.0.1:36957
+Read port: 35317
+1694451860872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU562QT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36957/devtools/browser/a9ae083e-7cac-4f35-8680-71c51ddc71d2
+1694451865578	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1694451889910	Marionette	INFO	Stopped listening on port 35317
+1694452805643	geckodriver	INFO	Listening on 127.0.0.1:37159
+1694452805686	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletlssfl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694452806068	Marionette	INFO	Marionette enabled
+1694452806071	Marionette	INFO	Listening on port 42313
+Read port: 42313
+WebDriver BiDi listening on ws://127.0.0.1:51879
+1694452806164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletlssfl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51879/devtools/browser/aa323695-4672-4256-86d4-afae2b58ce2e
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694453035427	geckodriver	INFO	Listening on 127.0.0.1:36421
+1694453035469	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileghaDYX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694453035853	Marionette	INFO	Marionette enabled
+1694453035856	Marionette	INFO	Listening on port 37781
+Read port: 37781
+WebDriver BiDi listening on ws://127.0.0.1:39707
+1694453035963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileghaDYX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39707/devtools/browser/ecb9d2c2-f967-43d7-8ca3-1ed1c4a21e14
+1694453040473	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694453082382	Marionette	INFO	Stopped listening on port 37781
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694453584919	geckodriver	INFO	Listening on 127.0.0.1:59777
+1694453584961	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesGpIcw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694453585350	Marionette	INFO	Marionette enabled
+1694453585353	Marionette	INFO	Listening on port 36967
+Read port: 36967
+WebDriver BiDi listening on ws://127.0.0.1:49897
+1694453585442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesGpIcw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49897/devtools/browser/bcecbb6d-284e-4e85-a4af-bedc775ec6b7
+1694453590927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694453758116	Marionette	INFO	Stopped listening on port 36967
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450945/pagestyle26 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694456235111	Marionette	INFO	Stopped listening on port 42313
+1694459064111	geckodriver	INFO	Listening on 127.0.0.1:47799
+1694459064653	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGOfTme"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694459065082	Marionette	INFO	Marionette enabled
+1694459065084	Marionette	INFO	Listening on port 40805
+WebDriver BiDi listening on ws://127.0.0.1:50007
+Read port: 40805
+1694459065233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGOfTme/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50007/devtools/browser/92231720-1b2b-4d3b-9164-b37df41fb900
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://glasgow.summon.serialssolutions.com."
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694459282161	geckodriver	INFO	Listening on 127.0.0.1:38435
+1694459282688	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2BpB7D"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694459283117	Marionette	INFO	Marionette enabled
+1694459283119	Marionette	INFO	Listening on port 34701
+WebDriver BiDi listening on ws://127.0.0.1:56437
+Read port: 34701
+1694459283220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2BpB7D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56437/devtools/browser/f6a7d8f2-bab3-44e0-a76a-4512f108c207
+1694459285064	Marionette	INFO	Stopped listening on port 34701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694459289229	geckodriver	INFO	Listening on 127.0.0.1:50647
+1694459289781	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledE7p37"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694459290201	Marionette	INFO	Marionette enabled
+1694459290203	Marionette	INFO	Listening on port 44831
+Read port: 44831
+WebDriver BiDi listening on ws://127.0.0.1:53579
+1694459290318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledE7p37/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53579/devtools/browser/56e62ad4-3213-4232-ab53-a7bcd93002ab
+1694459292242	Marionette	INFO	Stopped listening on port 44831
+1694459316303	geckodriver	INFO	Listening on 127.0.0.1:49753
+1694459316322	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledkLBJh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694459316711	Marionette	INFO	Marionette enabled
+1694459316714	Marionette	INFO	Listening on port 38803
+Read port: 38803
+WebDriver BiDi listening on ws://127.0.0.1:34275
+1694459316816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledkLBJh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34275/devtools/browser/0b2710c7-01c4-42e4-bc07-35657aae2cab
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694459352590	Marionette	INFO	Stopped listening on port 38803
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694472510806	geckodriver	INFO	Listening on 127.0.0.1:55175
+1694472511354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyzSswO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694472511845	Marionette	INFO	Marionette enabled
+1694472511848	Marionette	INFO	Listening on port 42347
+Read port: 42347
+WebDriver BiDi listening on ws://127.0.0.1:54845
+1694472511937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyzSswO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54845/devtools/browser/047237dc-86d5-41ac-8a82-7a09295fc72d
+1694472518580	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694472554031	geckodriver	INFO	Listening on 127.0.0.1:54709
+1694472554069	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZdZlqm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694472554460	Marionette	INFO	Marionette enabled
+1694472554462	Marionette	INFO	Listening on port 32889
+Read port: 32889
+WebDriver BiDi listening on ws://127.0.0.1:34705
+1694472554539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZdZlqm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34705/devtools/browser/52e9ba0a-466b-41b6-8260-8863d89395c9
+1694472558667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694472585819	Marionette	INFO	Stopped listening on port 40805
