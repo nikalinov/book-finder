@@ -1,13 +1,16 @@
-from selenium.webdriver import Firefox, FirefoxOptions
+from selenium.common import NoSuchElementException
+from selenium.webdriver import Firefox, FirefoxOptions, ActionChains
 from selenium.webdriver.common.by import By
 from django.core.management.base import BaseCommand
 from urllib.parse import urlencode
 from time import sleep
+from re import search
 
+from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.support.wait import WebDriverWait
 
 URL = 'https://glasgow.summon.serialssolutions.com/?s.'
 CONTENT_TYPES = ['Book / eBook']
-DISCIPLINES = ['Computer science']
 
 
 class Command(BaseCommand):
@@ -24,9 +27,9 @@ class Command(BaseCommand):
         browser_options = FirefoxOptions()
         browser_options.headless = False
         driver = Firefox(options=browser_options)
-        driver.implicitly_wait(5)
         query = {'q': search_title}
-        driver.get(URL + urlencode(query))
+        url = URL + urlencode(query)
+        driver.get(url)
         return driver
 
     @staticmethod
@@ -34,50 +37,74 @@ class Command(BaseCommand):
         books: list[dict]
         books = []
 
-        # find titles and links
-        headings = driver.find_elements(By.CSS_SELECTOR, '.customPrimaryLinkContainer.ng-scope')[:number]
-        for element in headings:
-            a = element.find_element(By.TAG_NAME, 'span').find_element(By.TAG_NAME, 'a')
+        # results web-elements/blocks
+        results = driver.find_elements(By.XPATH, "//div[starts-with(@id,'FETCH-glasgow_catalog')]")[:number]
+
+        for res in results:
+            # find book's title and link
+            heading = res.find_element(By.CSS_SELECTOR, '.customPrimaryLinkContainer.ng-scope')
+            a = heading.find_element(By.TAG_NAME, 'span').find_element(By.TAG_NAME, 'a')
             books.append({'title': a.text, 'link': a.get_attribute('href')})
 
-        authors = driver.find_elements(By.CSS_SELECTOR, '.customPrimaryLink.ng-binding')[:number]
-        years = driver.find_elements(By.CSS_SELECTOR, '.shortSummary.ng-binding.ng-scope')[:number]
-        # find type (book or eBook) for each result
-        types = driver.find_elements(By.CSS_SELECTOR, '.contentType.ng-binding.minimalist')[:number]
+            # find book's author(s)
+            authors = res.find_element(By.XPATH, ".//div[@class='authors']")
+            authors = authors.find_elements(By.CSS_SELECTOR, '.customPrimaryLink.ng-binding')
+            books[-1]['authors'] = []
+            for author in authors:
+                books[-1]['authors'].append(author.text)
 
-        for i in range(number):
-            books[i]['author'] = authors[i].text
-            books[i]['year'] = years[i].text[:4]
-            books[i]['type'] = types[i].text
+            # find book's year
+            year_info = res.find_element(By.CSS_SELECTOR, '.shortSummary.ng-binding.ng-scope').text
+            year = search(r'(19|20)\d{2}', year_info).group(0)
+            books[-1]['year'] = year
+
+            # find type (book and/or eBook) for each result
+            types = driver.find_element(
+                By.CSS_SELECTOR,
+                '.availability.documentSummaryAvailability.availabilityContent.ng-scope'
+            )
+            books[-1]['types'] = []
+            try:
+                types.find_element(By.CSS_SELECTOR, '.contentType.ng-binding.minimalist')
+                books[-1]['types'].append('Book')
+            except NoSuchElementException:
+                pass
+            try:
+                types.find_element(By.CSS_SELECTOR, '.contentType.ng-binding')
+                books[-1]['types'].append('eBook')
+            except NoSuchElementException:
+                pass
 
         return books
 
-    def handle(self, *args, **kwargs):
-        # web-driver configuration
-        driver = self.set_driver(kwargs['title'])
-
+    @staticmethod
+    def show_results(driver, number):
         # filter by 'book / eBook'
         for option in CONTENT_TYPES:
-            driver.find_element(By.LINK_TEXT, option).click()
-
-        # filter by disciplines
-        for discipline in DISCIPLINES:
-            search = driver.find_element(By.XPATH, "//*[starts-with(@id, 'moreFacetsFilter')]")
-            search.click()
-            search.send_keys(discipline)
-            driver.find_element(By.LINK_TEXT, discipline).click()
+            WebDriverWait(driver, 3).until(
+                expected_conditions.element_to_be_clickable(
+                    (By.CSS_SELECTOR, f"[title='{option}']")
+                )
+            )
+            driver.find_element(By.CSS_SELECTOR, f"[title='{option}']").click()
 
         # get enough results ( >= default number/number from command-line args.) on the page
         while True:
             numbers_elems = driver.find_elements(By.CSS_SELECTOR, '.resultNumber.ng-binding.ng-scope')
             last_number = int(numbers_elems[-1].text)
-            print(last_number)
-            if last_number >= kwargs['number']:
-                print('finish')
+            if last_number >= number:
                 break
             driver.execute_script('window.scrollTo(0, document.body.scrollHeight);')
-            sleep(5)
+            sleep(1)
 
+        return driver
+
+    def handle(self, *args, **kwargs):
+        # web-driver configuration
+        driver = self.set_driver(kwargs['title'])
+        # showing enough ( >= requested book number) results on the page to extract
+        driver = self.show_results(driver, kwargs['number'])
+        # structuring results into list of dictionaries (representation of each book)
         books = self.get_books(driver, kwargs['number'])
-        print(*books, sep='\n')
-        #driver.quit()
+
+        driver.quit()
