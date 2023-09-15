@@ -1,16 +1,39 @@
+from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.support.wait import WebDriverWait
 from selenium.common import NoSuchElementException
 from selenium.webdriver import Firefox, FirefoxOptions
 from selenium.webdriver.common.by import By
 from urllib.parse import urlencode
 from time import sleep
 from re import search
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.wait import WebDriverWait
+import json
 
 
 GLASGOW_URL = 'https://glasgow.summon.serialssolutions.com/'
 GOODREADS_URL = 'https://www.goodreads.com/'
 CONTENT_TYPES = ['Book / eBook']
+
+
+class BookFinder:
+    def __init__(self, title, number):
+        self.title = title
+        self.number = number
+        self.books_json = []
+
+    def find_books(self):
+        """ Returns JSON representation of found books """
+        glasgow_finder = GlasgowFinder()
+        books = glasgow_finder.find_books(self.title, self.number)
+
+        goodreads_finder = GoodreadsFinder()
+        books = goodreads_finder.find_ratings(books)
+        books_json = json.dumps(books, indent=4)
+        print(books_json)
+        self.books_json = books_json
+
+    def send_books(self):
+        """ Sends POST request with JSON to the server """
+        pass
 
 
 def setup_driver():
@@ -141,6 +164,4 @@ class GoodreadsFinder:
             for k, v in book.items():
                 print(f'{k}: {v}')
             print()"""
-
-
-
+        return self.books

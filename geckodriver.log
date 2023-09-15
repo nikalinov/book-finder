@@ -890,3 +890,72 @@ WebDriver BiDi listening on ws://127.0.0.1:56357
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNLK2CZ/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:56357/devtools/browser/1ae14c0f-275b-432b-9dde-2e93688a98dd
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694814318743	geckodriver	INFO	Listening on 127.0.0.1:37053
+1694814319287	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "58529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRB0v9e"
+*** You are running in headless mode.
+1694814319497	Marionette	INFO	Marionette enabled
+1694814319500	Marionette	INFO	Listening on port 45935
+WebDriver BiDi listening on ws://127.0.0.1:58529
+Read port: 45935
+1694814319683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRB0v9e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58529/devtools/browser/34647bf1-7d98-4fae-97b0-88cd7bd1cead
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694814330396	Marionette	INFO	Stopped listening on port 45935
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694814330795	geckodriver	INFO	Listening on 127.0.0.1:58857
+1694814331321	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyz591p"
+*** You are running in headless mode.
+1694814331523	Marionette	INFO	Marionette enabled
+1694814331525	Marionette	INFO	Listening on port 38639
+WebDriver BiDi listening on ws://127.0.0.1:40979
+Read port: 38639
+1694814331704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyz591p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40979/devtools/browser/55dd1814-43f5-4e0b-9abc-57702d7333e3
+1694814407788	geckodriver	INFO	Listening on 127.0.0.1:37315
+1694814407830	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "57215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewxqedU"
+*** You are running in headless mode.
+1694814408027	Marionette	INFO	Marionette enabled
+1694814408029	Marionette	INFO	Listening on port 34309
+Read port: 34309
+WebDriver BiDi listening on ws://127.0.0.1:57215
+1694814408090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewxqedU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57215/devtools/browser/4b970bf3-9a50-47c5-88b4-59df50cb053d
+1694814412315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694814414857	Marionette	INFO	Stopped listening on port 34309
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694814415301	geckodriver	INFO	Listening on 127.0.0.1:34437
+1694814415836	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "51139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRGdxVq"
+*** You are running in headless mode.
+1694814416047	Marionette	INFO	Marionette enabled
+1694814416050	Marionette	INFO	Listening on port 33893
+WebDriver BiDi listening on ws://127.0.0.1:51139
+Read port: 33893
+1694814416261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRGdxVq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51139/devtools/browser/7c3b8c7f-17d7-4d78-9b60-c62c29cbb3bb
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
