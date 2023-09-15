@@ -16,7 +16,7 @@ CONTENT_TYPES = ['Book / eBook']
 def setup_driver():
     """ Initialize driver with a closed browser and redirect to the search page """
     browser_options = FirefoxOptions()
-    browser_options.headless = False
+    browser_options.headless = True
     driver = Firefox(options=browser_options)
     return driver
 
@@ -38,7 +38,7 @@ class GlasgowFinder:
             # find book's title and link
             heading = res.find_element(By.CSS_SELECTOR, '.customPrimaryLinkContainer.ng-scope')
             a = heading.find_element(By.TAG_NAME, 'span').find_element(By.TAG_NAME, 'a')
-            books.append({'title': a.text, 'link': a.get_attribute('href')})
+            books.append({'title': a.text, 'glasgow_link': a.get_attribute('href')})
 
             # find book's author(s)
             authors = res.find_element(By.XPATH, ".//div[@class='authors']")
@@ -126,11 +126,21 @@ class GoodreadsFinder:
             except NoSuchElementException:
                 continue
 
-            rating_words = driver.find_element(By.CLASS_NAME, 'minirating').text.split()
-            rating = [] # 1st element: avg. rating, 2nd element: no. of people voted
-            for elem in rating_words:
-                if elem.isnumeric() or '.' in elem:
-                    rating.append(int(elem))
-            print(rating)
+            # find average rating and number of reviews
+            rating_info = driver.find_element(By.CLASS_NAME, 'minirating').text
+            average = float(search(r'\d\.\d{2}', rating_info).group(0))
+            reviews = int(search(r'\d+', rating_info[::-1]).group(0))
+            book['average'] = average
+            book['reviews'] = reviews
+
+            # find link to the book
+            link = driver.find_element(By.XPATH, '//a[starts-with(@href,"/book/show/")]').get_attribute('href')
+            book['goodreads_link'] = link
+
+        """for book in books:
+            for k, v in book.items():
+                print(f'{k}: {v}')
+            print()"""
+
 
 

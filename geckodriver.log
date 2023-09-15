@@ -610,3 +610,283 @@ WebDriver BiDi listening on ws://127.0.0.1:41499
 1694729849010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZSPPIF/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:41499/devtools/browser/63034c9a-2581-4cbf-8c53-6eb034f22300
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694732275524	Marionette	INFO	Stopped listening on port 33717
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694796392853	geckodriver	INFO	Listening on 127.0.0.1:47639
+1694796393387	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileb5Ln2y"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694796393909	Marionette	INFO	Marionette enabled
+1694796393912	Marionette	INFO	Listening on port 44505
+WebDriver BiDi listening on ws://127.0.0.1:38271
+Read port: 44505
+1694796394124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb5Ln2y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38271/devtools/browser/d973e13e-770d-4054-9499-2b7fbb242486
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694796405168	Marionette	INFO	Stopped listening on port 44505
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694796405583	geckodriver	INFO	Listening on 127.0.0.1:54345
+1694796406123	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledaKqLf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694796406550	Marionette	INFO	Marionette enabled
+1694796406553	Marionette	INFO	Listening on port 45141
+Read port: 45141
+WebDriver BiDi listening on ws://127.0.0.1:55895
+1694796406660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledaKqLf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55895/devtools/browser/6f5c8df4-6b2b-488c-b08f-f964af2afe1e
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1694796722325	geckodriver	INFO	Listening on 127.0.0.1:38475
+1694796722345	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoBoniq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694796722800	Marionette	INFO	Marionette enabled
+1694796722802	Marionette	INFO	Listening on port 42131
+Read port: 42131
+WebDriver BiDi listening on ws://127.0.0.1:34181
+1694796722903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoBoniq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34181/devtools/browser/c25a376e-7f49-41c3-9f5a-3532be056c55
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694796732189	Marionette	INFO	Stopped listening on port 42131
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694796732588	geckodriver	INFO	Listening on 127.0.0.1:35379
+1694796733113	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5nVjWN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694796733512	Marionette	INFO	Marionette enabled
+1694796733515	Marionette	INFO	Listening on port 35381
+WebDriver BiDi listening on ws://127.0.0.1:35231
+Read port: 35381
+1694796733712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5nVjWN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35231/devtools/browser/4d8f3a5a-30b4-422b-9df5-ce70a26cd627
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694797339862	geckodriver	INFO	Listening on 127.0.0.1:55835
+1694797340381	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSm5Dm2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797340858	Marionette	INFO	Marionette enabled
+1694797340862	Marionette	INFO	Listening on port 44571
+Read port: 44571
+WebDriver BiDi listening on ws://127.0.0.1:47911
+1694797340939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSm5Dm2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47911/devtools/browser/1ae0359d-1b5e-4a69-bc44-bec24796bdeb
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694797350885	Marionette	INFO	Stopped listening on port 44571
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694797351291	geckodriver	INFO	Listening on 127.0.0.1:33637
+1694797351810	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJy1kUB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797352219	Marionette	INFO	Marionette enabled
+1694797352222	Marionette	INFO	Listening on port 38351
+Read port: 38351
+WebDriver BiDi listening on ws://127.0.0.1:52193
+1694797352343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJy1kUB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52193/devtools/browser/bf1f437d-d911-403d-9784-2c058407ca73
+1694797376945	Marionette	INFO	Stopped listening on port 45141
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1694797377705	Marionette	INFO	Stopped listening on port 35381
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694797378245	Marionette	INFO	Stopped listening on port 38351
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694797490268	geckodriver	INFO	Listening on 127.0.0.1:45343
+1694797490306	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSn8Pwn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797490707	Marionette	INFO	Marionette enabled
+1694797490709	Marionette	INFO	Listening on port 46349
+WebDriver BiDi listening on ws://127.0.0.1:38093
+Read port: 46349
+1694797490911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSn8Pwn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38093/devtools/browser/c879aada-d0fc-450f-932e-8fca50b0cbd5
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694797498177	Marionette	INFO	Stopped listening on port 46349
+1694797498557	geckodriver	INFO	Listening on 127.0.0.1:37409
+1694797499088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXb2fY2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797499519	Marionette	INFO	Marionette enabled
+1694797499522	Marionette	INFO	Listening on port 37181
+Read port: 37181
+WebDriver BiDi listening on ws://127.0.0.1:47305
+1694797499626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXb2fY2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47305/devtools/browser/9228c5f2-4d79-460a-aff7-2022ecd28e99
+1694797598320	geckodriver	INFO	Listening on 127.0.0.1:59155
+1694797598859	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefKku6B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797599240	Marionette	INFO	Marionette enabled
+1694797599242	Marionette	INFO	Listening on port 40401
+Read port: 40401
+WebDriver BiDi listening on ws://127.0.0.1:47637
+1694797599357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefKku6B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47637/devtools/browser/81977b42-3e2b-4ff7-92d9-38a534b2b55b
+1694797604141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694797607952	Marionette	INFO	Stopped listening on port 40401
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694797608331	geckodriver	INFO	Listening on 127.0.0.1:34127
+1694797608851	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTNXTyR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797609243	Marionette	INFO	Marionette enabled
+1694797609245	Marionette	INFO	Listening on port 39977
+Read port: 39977
+WebDriver BiDi listening on ws://127.0.0.1:60231
+1694797609345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTNXTyR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60231/devtools/browser/0eaa4c7d-356b-4072-bead-6bb1136a0d93
+1694797730760	geckodriver	INFO	Listening on 127.0.0.1:56601
+1694797730779	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKE0DaT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797731182	Marionette	INFO	Marionette enabled
+1694797731185	Marionette	INFO	Listening on port 34095
+WebDriver BiDi listening on ws://127.0.0.1:45883
+Read port: 34095
+1694797731366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKE0DaT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45883/devtools/browser/75b67f3a-5b10-4396-a40a-d07a373cd15e
+1694797736105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1694797741218	Marionette	INFO	Stopped listening on port 34095
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694797741638	geckodriver	INFO	Listening on 127.0.0.1:48943
+1694797742169	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekZsZEi"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694797742650	Marionette	INFO	Marionette enabled
+1694797742653	Marionette	INFO	Listening on port 38415
+Read port: 38415
+WebDriver BiDi listening on ws://127.0.0.1:58815
+1694797742773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekZsZEi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58815/devtools/browser/7627a832-f1c9-41b9-a774-916b64481666
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1694797776057	Marionette	INFO	Stopped listening on port 37181
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694798090402	Marionette	INFO	Stopped listening on port 39977
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694803168878	geckodriver	INFO	Listening on 127.0.0.1:54693
+1694803169423	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "40205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTwHU97"
+*** You are running in headless mode.
+1694803169631	Marionette	INFO	Marionette enabled
+1694803169633	Marionette	INFO	Listening on port 43221
+WebDriver BiDi listening on ws://127.0.0.1:40205
+Read port: 43221
+1694803169751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTwHU97/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40205/devtools/browser/343fcb7d-918f-4fcd-8a2b-584bb6ecf8ac
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694803178847	Marionette	INFO	Stopped listening on port 43221
+1694803179261	geckodriver	INFO	Listening on 127.0.0.1:49303
+1694803179806	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "37923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyzJCL3"
+*** You are running in headless mode.
+1694803179996	Marionette	INFO	Marionette enabled
+1694803179998	Marionette	INFO	Listening on port 46877
+Read port: 46877
+WebDriver BiDi listening on ws://127.0.0.1:37923
+1694803180055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyzJCL3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37923/devtools/browser/165b6959-2af8-41a0-ba80-92a0f88b30a1
+1694803495117	Marionette	INFO	Stopped listening on port 38415
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1694812816485	geckodriver	INFO	Listening on 127.0.0.1:49161
+1694812817036	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "38103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMcgcoZ"
+*** You are running in headless mode.
+1694812817246	Marionette	INFO	Marionette enabled
+1694812817248	Marionette	INFO	Listening on port 43153
+WebDriver BiDi listening on ws://127.0.0.1:38103
+Read port: 43153
+1694812817439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMcgcoZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38103/devtools/browser/2be2cf91-13d0-4830-83c9-c7655073d139
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+JavaScript error: https://ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=517, line 8900: TypeError: LibraryThing.ltstrings is undefined
+1694812825535	Marionette	INFO	Stopped listening on port 43153
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1694812825946	geckodriver	INFO	Listening on 127.0.0.1:34409
+1694812826478	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "56357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNLK2CZ"
+*** You are running in headless mode.
+1694812826674	Marionette	INFO	Marionette enabled
+1694812826676	Marionette	INFO	Listening on port 32933
+Read port: 32933
+WebDriver BiDi listening on ws://127.0.0.1:56357
+1694812826732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNLK2CZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56357/devtools/browser/1ae14c0f-275b-432b-9dde-2e93688a98dd
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
