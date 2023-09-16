@@ -4,8 +4,8 @@ import argparse
 
 def run():
     parser = argparse.ArgumentParser(
-        description='Find a top N books from the Glasgow University library '
-                    '(specify number and searched title as the command arguments)'
+        description='Find a top N books from the Glasgow University library\n'
+                    '(specify title and the desired number of results as the command arguments)'
     )
     parser.add_argument('title', type=str)
     parser.add_argument('number', nargs='?', type=int, default=20)
@@ -15,7 +15,7 @@ def run():
     finder = BookFinder(args.title, args.number)
     print(f'Finding top {args.number} books with title {args.title}...')
     finder.find_books()
-    print('Successfuly found books!')
+    print('Successfully found books!')
     finder.send_books()
     print('Successfully sent books to the server!')
 

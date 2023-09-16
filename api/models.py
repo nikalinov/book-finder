@@ -1,3 +1,6 @@
-from django.db import models
+from django.db.models import Model
+from rest_framework.fields import CharField
 
-# Create your models here.
+
+class Book(Model):
+    glasgow_link = CharField()
