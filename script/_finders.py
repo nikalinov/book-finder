@@ -1,3 +1,4 @@
+from django.urls import reverse
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support import expected_conditions
@@ -10,7 +11,6 @@ from requests import post
 from time import sleep
 from re import search
 from os import devnull
-import json
 
 
 GLASGOW_URL = 'https://glasgow.summon.serialssolutions.com/'
@@ -34,8 +34,10 @@ class BookFinder:
 
     def send_books(self):
         """ Sends POST request with JSON to the server """
-        request = post(url, self.books)
-        print(f"Status Code: {request.status_code}, Response: {request.json()}")
+        for book in self.books:
+            print(book)
+            request = post('http://127.0.0.1:8000/api/book/list', json=book)
+            print(f"Status Code: {request.status_code}, Response: {request.json()}")
 
 
 def setup_driver():
@@ -61,11 +63,12 @@ class GlasgowFinder:
         self.books.append({'title': a.text, 'glasgow_link': a.get_attribute('href')})
 
     def add_authors(self, book_element: WebElement):
-        authors = book_element.find_element(By.XPATH, ".//div[@class='authors']")
-        authors = authors.find_elements(By.CSS_SELECTOR, '.customPrimaryLink.ng-binding')
-        self.books[-1]['authors'] = []
-        for author in authors:
-            self.books[-1]['authors'].append(author.text)
+        authors_block = book_element.find_element(By.XPATH, ".//div[@class='authors']")
+        authors_block = authors_block.find_elements(By.CSS_SELECTOR, '.customPrimaryLink.ng-binding')
+        authors = []
+        for author in authors_block:
+            authors.append(author.text)
+        self.books[-1]['authors'] = '; '.join(authors)
 
     def add_year(self, book_element: WebElement):
         year_info = book_element.find_element(By.CSS_SELECTOR, '.shortSummary.ng-binding.ng-scope').text
@@ -91,6 +94,7 @@ class GlasgowFinder:
             self.books[-1]['types'].append('eBook')
         except NoSuchElementException:
             pass
+        self.books[-1]['types'] = '; '.join(self.books[-1]['types'])
 
     def get_books(self) -> list[dict]:
         # results web-elements/blocks

@@ -8,10 +8,12 @@ def run():
                     '(specify title and the desired number of results as the command arguments)'
     )
     parser.add_argument('title', type=str)
-    parser.add_argument('number', nargs='?', type=int, default=20)
+    parser.add_argument('number', nargs='?', type=int, default=15)
 
     args = parser.parse_args()
-
+    if args.number < 15:
+        print('Error: number of books should be at least 15.')
+        return
     finder = BookFinder(args.title, args.number)
     print(f'Finding top {args.number} books with title {args.title}...')
     finder.find_books()
