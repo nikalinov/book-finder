@@ -1,3 +1,6 @@
+import os
+import sys
+import django
 from _finders import BookFinder
 import argparse
 
@@ -14,6 +17,7 @@ def run():
     if args.number < 15:
         print('Error: number of books should be at least 15.')
         return
+
     finder = BookFinder(args.title, args.number)
     print(f'Finding top {args.number} books with title {args.title}...')
     finder.find_books()
@@ -23,4 +27,8 @@ def run():
 
 
 if __name__ == '__main__':
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    sys.path.append(BASE_DIR)
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "book_finder.settings")
+    django.setup()
     run()

@@ -1,4 +1,5 @@
-from django.urls import reverse
+from django.conf import settings
+from django.urls import reverse_lazy, reverse
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support import expected_conditions
@@ -34,10 +35,14 @@ class BookFinder:
 
     def send_books(self):
         """ Sends POST request with JSON to the server """
+        url_end = reverse('book-list')
+        url = f'{settings.BASE_URL}{url_end}'
+
         for book in self.books:
-            print(book)
-            request = post('http://127.0.0.1:8000/api/book/list', json=book)
-            print(f"Status Code: {request.status_code}, Response: {request.json()}")
+            request = post(url, json=book)
+
+            if str(request.status_code)[0] != '2':
+                print(f'response: {request.text}')
 
 
 def setup_driver():
