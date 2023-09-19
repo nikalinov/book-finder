@@ -24,8 +24,23 @@
    (which is in the original 'book_finder' project directory) and run:  
    `python3 secret_key_generator.py`
 ## Usage guide
-1. Navigate into the 'script' directory and run the command:
+1. To turn on the Django server for sending data, run from the root directory:
+   `python3 manage.py runserver`
+2. Open another command line window to start a separate session, navigate into the 'script' directory of  
+   the project and run the command:  
    `python3 find.py <enter-your-title-here> <enter-number-of-results-here>`;
-   where the search query can be any phrase/word and the number must be at least 15.
-   One can omit the number and it will  default 
+   where the search query can be any phrase/word and the number must be at least 15.  
+   One can omit the number and it will default to 15. For example,  
+   `python3 find.py python 20` or `python3 find.py java`
+   In case everything works correctly, the 2 messages will be displayed:  
+   ```
+   Successfully found books!
+   Successfully sent books to the server!
+   ```
+3. The sent data is available via endpoints `http://127.0.0.1:8000/api/book/list/` (GET - retrieve book list,  
+   POST - post a book record) and `http://127.0.0.1:8000/api/book/<book_pk>` (GET - retrieve a book record).  
+   For the book list, one can add a query variables `sort` and `filter`, for example:  
+   `http://127.0.0.1:8000/api/book/list/?sort=rating&filter=true` - retrieves the book list sorted by highest  
+   rating and with excluded zero-rating books ([screenshot of the result](https://imgur.com/a/6jbxI1Z)).
+
 ## Technologies used
