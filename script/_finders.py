@@ -1,5 +1,3 @@
-from django.conf import settings
-from django.urls import reverse_lazy, reverse
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support import expected_conditions
@@ -8,6 +6,8 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver import Firefox, FirefoxOptions
 from selenium.webdriver.common.by import By
 from urllib.parse import urlencode
+from django.conf import settings
+from django.urls import reverse
 from requests import post
 from time import sleep
 from re import search
@@ -37,12 +37,12 @@ class BookFinder:
         """ Sends POST request with JSON to the server """
         url_end = reverse('book-list')
         url = f'{settings.BASE_URL}{url_end}'
-
         for book in self.books:
             request = post(url, json=book)
 
-            if str(request.status_code)[0] != '2':
+            """if str(request.status_code)[0] != '2':
                 print(f'response: {request.text}')
+                print(book)"""
 
 
 def setup_driver():
@@ -171,9 +171,11 @@ class GoodreadsFinder:
 
             # find average rating and number of reviews
             rating_info = driver.find_element(By.CLASS_NAME, 'minirating').text
-            average = float(search(r'\d\.\d{2}', rating_info).group(0))
+            rating = float(search(r'\d\.\d{2}', rating_info).group(0))
             reviews = int(search(r'\d+', rating_info[::-1]).group(0))
-            book['average'] = average
+            if reviews == 0:
+                rating = None
+            book['rating'] = rating
             book['reviews'] = reviews
 
             # find link to the book
