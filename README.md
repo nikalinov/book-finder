@@ -66,5 +66,8 @@
    For the book list, one can add a query variables `sort` and `filter`, for example:  
    `http://127.0.0.1:8000/api/book/list/?sort=rating&filter=true` - retrieves the book list sorted by highest  
    rating and with excluded zero-rating books ([screenshot of the result](https://imgur.com/a/6jbxI1Z)).
-
 ## Technologies used
+* [Python 3](https://www.python.org/)
+* [Selenium](https://www.selenium.dev/)
+* [Django](https://www.djangoproject.com/)
+* [Django REST framework](https://www.django-rest-framework.org/)
