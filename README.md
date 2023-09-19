@@ -1,7 +1,7 @@
 # Book finder
 * A script that finds books on the Glasgow University library resource, takes reviews from Goodreads, and structures it in a database using REST API.
 * The script is useful for those who want to quickly find top-rated or most popular books about a particular topic which are available to borrow from
-  the library for free, instead of buying them. Additionally, the developed API might be used for own needs, website creation, etc.
+  the library for free, instead of buying them.
 * After the script is run, the JSON object is formed from the book results and sent to the server.
 * Using sorting and/or filtering queries in a url, one can retrieve the books without empty reviews and sorted by number of reviews/best rating.
 ## Table of contents:
